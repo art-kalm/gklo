@@ -10,7 +10,7 @@ To use it, clone the repository:
 	git clone https://github.com/art-kalm/gklo.git
 ```
 
-Install `sage`, launch it
+Install `sage`, launch it, and run
 
 ```
 	%attach DIRECTORY/difference_operators.py
